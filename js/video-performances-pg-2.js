@@ -4,19 +4,9 @@ document.addEventListener("DOMContentLoaded", function() {
     // Array of additional video URLs
     const videos = [
         {
-            url: "https://youtu.be/BaNZRI0uQi4",
-            thumbnail: "https://img.youtube.com/vi/BaNZRI0uQi4/hqdefault.jpg",
-            title: "Voulez Vou<br>St. Pete"
-        },
-        {
             url: "https://youtu.be/WrvhcOIYJXU",
             thumbnail: "https://img.youtube.com/vi/WrvhcOIYJXU/hqdefault.jpg",
             title: "Voulez Vou<br>Palentines Show"
-        },
-        {
-            url: "https://youtu.be/yQtd1kDPamE",
-            thumbnail: "https://img.youtube.com/vi/yQtd1kDPamE/hqdefault.jpg",
-            title: "Rabiosa<br>Greek Hafla"
         },
         {
             url: "https://youtu.be/Hd7f_bf78ZE",
@@ -68,3 +58,4 @@ document.addEventListener("DOMContentLoaded", function() {
         galleryContainer.appendChild(colDiv);
     });
 });
+
